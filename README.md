@@ -1,4 +1,4 @@
-#Config Files for BSPWM URXVT POLYBAR FISH ZSH SXHKD
+#  Config Files for BSPWM URXVT POLYBAR FISH ZSH SXHKD
 
 Prerequisites:
 		sudo pacman -S ttf-hack    (font used in urxvt)
