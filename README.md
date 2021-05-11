@@ -5,3 +5,10 @@ Prerequisites:
 		sudo paru -S polybar  (paru is a aur helper)   
 
 	
+Notes:
+	For shell two options:
+				zsh with ohmyzsh
+				fish with omf
+
+	FISH:
+		OMF - Bundles -- archlinux,sublime,theme boxfish
